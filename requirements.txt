@@ -1,0 +1,8 @@
+pandas
+seaborn
+statsmodels
+bokeh
+plotly
+nbformat
+psutil
+requests
